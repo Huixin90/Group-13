@@ -15,4 +15,6 @@
 
 ![image](https://user-images.githubusercontent.com/113970010/198545596-b266293d-2b28-465b-9b01-c978462ce0bb.png)
 
+甘特圖
 
+![image](https://user-images.githubusercontent.com/113970010/198550890-b1491ae6-61d1-490c-bd3c-31a17613d3e7.png)
